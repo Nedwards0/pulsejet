@@ -1,0 +1,5 @@
+The design is there are sub branches one for working on sensor code both the arduino code and the python serial reading.
+
+The Second branch is for anything to do with analysis. 
+
+Whenever a branch is stable it should be merged into master.
